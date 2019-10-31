@@ -1,0 +1,14 @@
+body{margin: 0;font-size: 12px;font-family:"微软雅黑","宋体";line-height:1;background: #eeeeee;}
+a{color:#333;text-decoration: none;}
+h1,h2,h3,h4,h5,h6{margin: 0;font-weight: normal;font-size:100%;}
+ul,ol{margin: 0;padding: 0;list-style:none;}
+dl,dd,p{margin:0;}td,th{padding:0;}
+img{vertical-align: top;border:none;}
+em,i{font-style:normal;}b,strong{font-weight:normal;}
+table{border-collapse: collapse;}        
+input,textarea{padding:0;margin:0;border:none;background:none;}
+input,textarea,select{font-family: inherit;}
+textarea{resize: none;overflow: auto;}
+input[type="button"],input[type="submit"]{box-sizing:content-box;}
+.clearfix,.container{*zoom:1;}
+.clearfix:after,.container:after{content:"";display:block;clear:both;font-size:0;line-height:0;overflow:hidden;}
